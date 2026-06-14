@@ -51,7 +51,7 @@ Encrypted: K  H  O  O  R
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PRODIGY_CS_01.git
+git clone https://github.com/Prasadsarkate/PRODIGY_CS_01.git
 
 # Navigate to folder
 cd PRODIGY_CS_01
